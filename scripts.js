@@ -19,6 +19,8 @@ $(document).ready(function(){
 	});
 });
 
+
+
 var isToggled = 0;
 var $hamburger = $(".hamburger");
   $hamburger.on("click", function(e) {
